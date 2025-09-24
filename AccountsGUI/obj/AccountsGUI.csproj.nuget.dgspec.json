@@ -13,7 +13,6 @@
         "packagesPath": "/Users/uauva/.nuget/packages/",
         "outputPath": "/Users/uauva/Desktop/Programming/C#/AccountsGUI - Group Project/AccountsGUI/AccountsGUI/obj/",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/uauva/.nuget/NuGet/NuGet.Config"
         ],
@@ -39,7 +38,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
