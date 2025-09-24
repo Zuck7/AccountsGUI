@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{480E63FA-494F-4399-BD78-9C80435706DA}|Default">
+  <MonoDevelop.Ide.ItemProperties.AccountsGUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountsGUI/Account.cs">
+    <Files>
+      <File FileName="AccountsGUI/VisaAccount.cs" Line="23" Column="33" />
+      <File FileName="AccountsGUI/AccountException.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/AccountExceptionType.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/obj/AccountsGUI.csproj.nuget.g.props" Line="14" Column="1" />
+      <File FileName="AccountsGUI/Program.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/SavingAccount.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/Util.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/Logger.cs" Line="1" Column="1" />
+      <File FileName="AccountsGUI/Account.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountsGUI" expanded="True">
+            <Node name="AccountsGUI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
