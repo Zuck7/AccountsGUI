@@ -1,6 +1,6 @@
 # AccountsGUI - Banking System Simulator
 
-A comprehensive C# console application that simulates a banking system with multiple account types, user authentication, and transaction management. This project demonstrates object-oriented programming principles, event handling, and data persistence in .NET 8.0.
+A comprehensive C# console application that simulates a banking system with multiple account types, user authentication, and transaction management. This **group project** was collaboratively developed by a team of 4 developers, demonstrating object-oriented programming principles, event handling, and data persistence in .NET 8.0.
 
 ## 🚀 Features
 
@@ -18,7 +18,7 @@ A comprehensive C# console application that simulates a banking system with mult
 ### Transaction System
 - Real-time transaction processing
 - Transaction history and logging
-- Event-driven architecture for transaction notifications
+- Event-driven architecture for transactn notifications
 - Balance tracking with lowest balance monitoring
 - Monthly report generation
 
@@ -163,12 +163,14 @@ checkingAccount.Deposit(250, person);
 
 ## 🤝 Team Contributors
 
-This project was developed as a collaborative effort by our development team, showcasing various aspects of software engineering including:
+This project was developed as a **collaborative group effort by a team of 4 developers**, showcasing teamwork and various aspects of software engineering including:
 - Object-oriented design principles
 - Event-driven programming
 - Exception handling strategies
 - Data persistence techniques
 - User authentication systems
+- Collaborative development practices
+- Code review and integration workflows
 
 ## 📊 Exception Handling
 
